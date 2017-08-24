@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+   xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/"
+   xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>17_8543_29.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan of the Plaza Mayor, Mexico City.</dc:title>
+      <dcterms:alternative>Plan of the Templo Mayor, Mexico City</dcterms:alternative>
+      <dc:description>This map of Mexico City's Plaza Mayor, dating to 1563, shows a rational
+         urbanism that was well in effect. It depicts a small and quite primitive Cathedral
+         (Mexico's first cathedral) to the north, a canal, dating from the pre-Conquest period, to
+         the south, the first building of the Real y Pontificia Universidad de México behind the
+         cathedral, and the Peal Palacio to the east. The outlined rectangle to the right of the
+         Cathedral is the foundation of the new Cathedral--the cornerstone of which had just been
+         laid the previous. This plan shows how, from the beginning, the Plaza Mayor concentrated
+         the forces of Church, Crown, and commerce in the sacred space once reserved for Aztec
+         ceremonial life.</dc:description>
+      <dc:description>Location Created: Mexico City.</dc:description>
+      <dc:description>Date created: 1563.</dc:description>
+      <dc:description>Current Location: Archivo General de Indias, Seville.</dc:description>
+      <dc:description>Medium: ink on paper.</dc:description>
+      <dc:description>Original file name: 17.8543-29</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1563.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Plazas--Mexico--Mexico City--Designs and plans.</dcadesc:subject>
+      <dcadesc:subject>City planning--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Historic buildings--Mexico--Mexico City--Designs and plans.</dcadesc:subject>
+      <dcadesc:geogname>Plaza de la Constitución (Mexico City, Mexico)</dcadesc:geogname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>pen and ink drawings.</dcadesc:genre>
+      <dcadesc:genre>plazas (squares)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>architectural drawings (visual works)</dcadesc:genre>
+      <dcadesc:genre>site plans.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_30.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Placio de Cortés.</dc:title>
+      <dcterms:alternative>The Palace of Cortés</dcterms:alternative>
+      <dc:description>This structure preserves the blocky crenellated walls and open Renaissance
+         arcades (one of which now shelters a mural painted in 1930 by Diego Rivera) common to many
+         early civil constructions. This is one of many early civil buildings that still survive and
+         from which we can get some sense of the aesthetics of the structures which used to exist in
+         the center of Mexico City.</dc:description>
+      <dc:description>Location Created: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Date created: begun in the late 1520s.</dc:description>
+      <dc:description>Current location: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-30</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1527.</dcterms:date>
+      <dcterms:date>1529.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Palaces--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Arcades (Architecture)--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Renaissance--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Latin America--Mudéjar influences.</dcadesc:subject>
+      <dcadesc:persname>Cortés, Hernán, 1485-1547--Homes and
+         haunts--Mexico--Cuernavaca.</dcadesc:persname>
+      <dcadesc:corpname>Palacio de Cortés (Cuernavaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Cuernavaca (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>palaces.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Spanish Renaissance-Baroque styles.</dcadesc:genre>
+      <dcadesc:genre>battlements.</dcadesc:genre>
+      <dcadesc:genre>arcades (structural assemblies)</dcadesc:genre>
+      <dcadesc:genre>towers (building divisions)</dcadesc:genre>
+      <dcadesc:genre>fronts (architectural)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Cuernavaca.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_30a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Placio de Cortés.</dc:title>
+      <dcterms:alternative>The Palace of Cortés</dcterms:alternative>
+      <dc:description>This structure preserves the blocky crenellated walls and open Renaissance
+         arcades (one of which now shelters a mural painted in 1930 by Diego Rivera) common to many
+         early civil constructions. This is one of many early civil buildings that still survive and
+         from which we can get some sense of the aesthetics of the structures which used to exist in
+         the center of Mexico City.</dc:description>
+      <dc:description>Location Created: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Date created: begun in the late 1520s.</dc:description>
+      <dc:description>Current location: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-30a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1527.</dcterms:date>
+      <dcterms:date>1529.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Palaces--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Arcades (Architecture)--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Renaissance--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Latin America--Mudéjar influences.</dcadesc:subject>
+      <dcadesc:persname>Cortés, Hernán, 1485-1547--Homes and
+         haunts--Mexico--Cuernavaca.</dcadesc:persname>
+      <dcadesc:corpname>Palacio de Cortés (Cuernavaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Cuernavaca (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>palaces.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Spanish Renaissance-Baroque styles.</dcadesc:genre>
+      <dcadesc:genre>battlements.</dcadesc:genre>
+      <dcadesc:genre>arcades (structural assemblies)</dcadesc:genre>
+      <dcadesc:genre>towers (building divisions)</dcadesc:genre>
+      <dcadesc:genre>fronts (architectural)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Cuernavaca.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_30b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Interior Courtyard of Placio de Cortés.</dc:title>
+      <dc:description>Interior courtyard of the Palace of Cortes shows the remains of the former
+         pre-Hispanic structure. The main palacio structure preserves the blocky crenellated walls
+         and open Renaissance arcades (one of which now shelters a mural painted in 1930 by Diego
+         Rivera) common to many early civil constructions. This is one of many early civil buildings
+         that still survive and from which we can get some sense of the aesthetics of the structures
+         which used to exist in the center of Mexico City.</dc:description>
+      <dc:description>Location Created: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Date created: begun in the late 1520s.</dc:description>
+      <dc:description>Current location: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-30b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1527.</dcterms:date>
+      <dcterms:date>1529.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Courtyards--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Latin America--Mudéjar influences.</dcadesc:subject>
+      <dcadesc:persname>Cortés, Hernán, 1485-1547--Homes and
+         haunts--Mexico--Cuernavaca.</dcadesc:persname>
+      <dcadesc:corpname>Palacio de Cortés (Cuernavaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Cuernavaca (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>courtyards.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>arcades (structural assemblies)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Cuernavaca.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_30c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Placio de Cortés.</dc:title>
+      <dcterms:alternative>The Palace of Cortés</dcterms:alternative>
+      <dc:description>This structure preserves the blocky crenellated walls and open Renaissance
+         arcades (one of which now shelters a mural painted in 1930 by Diego Rivera) common to many
+         early civil constructions. This is one of many early civil buildings that still survive and
+         from which we can get some sense of the aesthetics of the structures which used to exist in
+         the center of Mexico City.</dc:description>
+      <dc:description>Location Created: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Date created: begun in the late 1520s.</dc:description>
+      <dc:description>Current location: Cuernavaca, Morelos, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-30c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1527.</dcterms:date>
+      <dcterms:date>1529.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Palaces--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Arcades (Architecture)--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Renaissance--Mexico--Cuernavaca.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Colonial--Latin America--Mudéjar influences.</dcadesc:subject>
+      <dcadesc:persname>Cortés, Hernán, 1485-1547--Homes and
+         haunts--Mexico--Cuernavaca.</dcadesc:persname>
+      <dcadesc:corpname>Palacio de Cortés (Cuernavaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Cuernavaca (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>palaces.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Spanish Renaissance-Baroque styles.</dcadesc:genre>
+      <dcadesc:genre>battlements.</dcadesc:genre>
+      <dcadesc:genre>arcades (structural assemblies)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Cuernavaca.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_31.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Casa de Montejo.</dc:title>
+      <dc:description>Built by the son of one of the chief conquistadors, this building features an
+         ornate Mannerist façade and classicizing relief decorations, including portrait busts
+         possibly of the first owner and his wife, mythological figures, and quirky animals. Above
+         the window, the Montejo coat of arms is flanked by gigantic statues of Spanish halberdiers
+         who tower over hairy "wild men" wielding rustic clubs--a symbol of victory over uncivilized
+         or pagan forces, according to medieval Spanish traditions. These sculptures were also meant
+         to evoke the ongoing and brutal conquest of the local Maya. As such, this facade, and
+         others like it, were meant to communicate Renaissance sophistication, martial power and
+         royal or aristocratic authority.</dc:description>
+      <dc:description>Location Created: Mérida, Yucatán.</dc:description>
+      <dc:description>Date Created: facade dated 1549.</dc:description>
+      <dc:description>Current Location: Mérida, Yucatán.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-31</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1549.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Historic buildings--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Mannerism (Architecture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Facades--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Wild men in art.</dcadesc:subject>
+      <dcadesc:subject>Symbolism in architecture--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:persname>Montejo, Francisco de, 1479-1553--Homes and
+         haunts--Mexico--Mérida.</dcadesc:persname>
+      <dcadesc:geogname>Mérida (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Plateresque.</dcadesc:genre>
+      <dcadesc:genre>residential structures.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dcadesc:genre>busts (figures)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Mérida.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_31a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Casa de Montejo (detail).</dc:title>
+      <dc:description>Built by the son of one of the chief conquistadors, this building features an
+         ornate Mannerist façade and classicizing relief decorations, including portrait busts
+         possibly of the first owner and his wife, mythological figures, and quirky animals. Above
+         the window, the Montejo coat of arms is flanked by gigantic statues of Spanish halberdiers
+         who tower over hairy "wild men" wielding rustic clubs--a symbol of victory over uncivilized
+         or pagan forces, according to medieval Spanish traditions. These sculptures were also meant
+         to evoke the ongoing and brutal conquest of the local Maya. As such, this facade, and
+         others like it, were meant to communicate Renaissance sophistication, martial power and
+         royal or aristocratic authority.</dc:description>
+      <dc:description>Location Created: Mérida, Yucatán.</dc:description>
+      <dc:description>Date Created: facade dated 1549.</dc:description>
+      <dc:description>Current Location: Mérida, Yucatán.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-31a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1549.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Pediments--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Mannerism (Architecture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Wild men in art.</dcadesc:subject>
+      <dcadesc:subject>Symbolism in architecture--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:persname>Montejo, Francisco de, 1479-1553--Homes and
+         haunts--Mexico--Mérida.</dcadesc:persname>
+      <dcadesc:geogname>Mérida (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Plateresque.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>façade components.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dcadesc:genre>busts (figures)</dcadesc:genre>
+      <dcadesc:genre>pediments.</dcadesc:genre>
+      <dcadesc:genre>escutcheons (coats of arms)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Mérida.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_31b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Casa de Montejo (detail).</dc:title>
+      <dc:description>Built by the son of one of the chief conquistadors, this building features an
+         ornate Mannerist façade and classicizing relief decorations, including portrait busts
+         possibly of the first owner and his wife, mythological figures, and quirky animals. Above
+         the window, the Montejo coat of arms is flanked by gigantic statues of Spanish halberdiers
+         who tower over hairy "wild men" wielding rustic clubs--a symbol of victory over uncivilized
+         or pagan forces, according to medieval Spanish traditions. These sculptures were also meant
+         to evoke the ongoing and brutal conquest of the local Maya. As such, this facade, and
+         others like it, were meant to communicate Renaissance sophistication, martial power and
+         royal or aristocratic authority.</dc:description>
+      <dc:description>Location Created: Mérida, Yucatán.</dc:description>
+      <dc:description>Date Created: facade dated 1549.</dc:description>
+      <dc:description>Current Location: Mérida, Yucatán.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-31b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1549.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mannerism (Architecture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:persname>Montejo, Francisco de, 1479-1553--Homes and
+         haunts--Mexico--Mérida.</dcadesc:persname>
+      <dcadesc:geogname>Mérida (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Plateresque.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>façade components.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dcadesc:genre>escutcheons (coats of arms)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Mérida.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_31c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Casa de Montejo (detail).</dc:title>
+      <dc:description>Built by the son of one of the chief conquistadors, this building features an
+         ornate Mannerist façade and classicizing relief decorations, including portrait busts
+         possibly of the first owner and his wife, mythological figures, and quirky animals. Above
+         the window, the Montejo coat of arms is flanked by gigantic statues of Spanish halberdiers
+         who tower over hairy "wild men" wielding rustic clubs--a symbol of victory over uncivilized
+         or pagan forces, according to medieval Spanish traditions. These sculptures were also meant
+         to evoke the ongoing and brutal conquest of the local Maya. As such, this facade, and
+         others like it, were meant to communicate Renaissance sophistication, martial power and
+         royal or aristocratic authority.</dc:description>
+      <dc:description>Location Created: Mérida, Yucatán.</dc:description>
+      <dc:description>Date Created: facade dated 1549.</dc:description>
+      <dc:description>Current Location: Mérida, Yucatán.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-31c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1549.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Wild men in art.</dcadesc:subject>
+      <dcadesc:subject>Mannerism (Architecture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture)--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Mérida.</dcadesc:subject>
+      <dcadesc:persname>Montejo, Francisco de, 1479-1553--Homes and
+         haunts--Mexico--Mérida.</dcadesc:persname>
+      <dcadesc:geogname>Mérida (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Plateresque.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>façade components.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Mexico--Mérida.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_32.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Triumph of Love.</dc:title>
+      <dcterms:contributor>Plaza Goes, Tomás de la, 1519-1587.</dcterms:contributor>
+      <dc:description>This wall decoration is from a series of renditions of five of Petrarch's
+         Triumphs, which narrate humanity's victories over earthly passions. These triumphal
+         depictions, commissioned by Tomás de la Plaza, dean of Puebla Cathedral, are derived from a
+         series of Flemish prints by Maarten van Heemskerck from 1562, representing the victories of
+         Time, Death, Love, Chastity, and Fame. The sixth triumph, "Faith," was either not included
+         or does not survive. The one presented here is the Triumph of Love. As a whole, these
+         decorations were meant as a public testimony to the patron's sophisticated Classical
+         learning and humanism, despite Church censorship. Although nothing is known about the
+         painters of these murals, inventive ornamental borders (sometimes called "grotesques")
+         reveal evidence of an indigenous hand, especially as it pertains to the speech scrolls and
+         native animals associated with pre-Hispanic vices and virtues. After centuries hidden by
+         whitewash, the murals in this much-altered building were rediscovered in
+         1953.</dc:description>
+      <dc:description>Location Created: Puebla, Mexico.</dc:description>
+      <dc:description>Date Created: c. 1590.</dc:description>
+      <dc:description>Current Location: Casa del Deán, Puebla, Mexico.</dc:description>
+      <dc:description>Medium: Mural.</dc:description>
+      <dc:description>Original file name: 17.8543-32</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1590.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mural painting and decoration, Mexican--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Mural painting and decoration, Colonial--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Triumph in art.</dcadesc:subject>
+      <dcadesc:subject>Grotesque in art.</dcadesc:subject>
+      <dcadesc:subject>Love in art.</dcadesc:subject>
+      <dcadesc:subject>Unicorns in art.</dcadesc:subject>
+      <dcadesc:subject>Chariots in art.</dcadesc:subject>
+      <dcadesc:subject>Satyrs (Greek mythology) in art.</dcadesc:subject>
+      <dcadesc:subject>Animals, Mythical, in art.</dcadesc:subject>
+      <dcadesc:subject>Prints, Flemish--Influence.</dcadesc:subject>
+      <dcadesc:persname>Petrarca, Francesco, 1304-1374.</dcadesc:persname>
+      <dcadesc:persname>Heemskerk, Martin van, 1498-1574--Influence.</dcadesc:persname>
+      <dcadesc:corpname>Casa del Deán (Puebla de Zaragoza, Mexico)</dcadesc:corpname>
+      <dcadesc:genre>frescoes (paintings)</dcadesc:genre>
+      <dcadesc:genre>mural paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>allegories (document genre)</dcadesc:genre>
+      <dcadesc:genre>Flemish (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Renaissance-Baroque architecture styles.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_33.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Virgin of the Rosary.</dc:title>
+      <dc:creator>Ortiz, Juan, approximately 1538-</dc:creator>
+      <dc:description>One of the few prints produced in New Spain from the 16th century that
+         survive, this hand-colored woodcut, dated 1571, but made the year before, shows the Virgin
+         of the Rosary, patroness of the Dominicans. It was created by Juan Ortiz, a French
+         printmaker who had arrived in New Spain in 1568 as part of the viceroy's entourage. He
+         included a poem as a caption to the print to which the Inquisition accused for its supposed
+         inaccuracy and heresy, and the image was held, and perfectly preserved, in the Inquisition
+         files. The image, perhaps based on a French model, was printed in the Mexico City shop of
+         Pedro Ocharte. Evidence suggests that indigenous assistants added color by using stencils
+         and were employed in framing such prints for sale.</dc:description>
+      <dc:description>Location Created: Pedro Ocharte, Mexico City.</dc:description>
+      <dc:description>Date Created: 1570.</dc:description>
+      <dc:description>Current Location: Archivo General de la Nación, Mexico City.</dc:description>
+      <dc:description>Medium: hand-colored woodcut.</dc:description>
+      <dc:description>Measurements: 16 1/2 x 11 3/4 in (42 x 30 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-33</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1570.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Wood-engraving, Mexican.</dcadesc:subject>
+      <dcadesc:subject>Color prints--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Virgins in art.</dcadesc:subject>
+      <dcadesc:subject>Rosary, Our Lady of the.</dcadesc:subject>
+      <dcadesc:subject>Rosary in art.</dcadesc:subject>
+      <dcadesc:subject>Angels in art.</dcadesc:subject>
+      <dcadesc:subject>Roses in art.</dcadesc:subject>
+      <dcadesc:subject>Prints, Dominican--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Christian patron saints in art.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Mexico City--Modern period,
+         1500-</dcadesc:subject>
+      <dcadesc:persname>Mary, Blessed Virgin, Saint--Art.</dcadesc:persname>
+      <dcadesc:persname>Jesus Christ--Art.</dcadesc:persname>
+      <dcadesc:genre>woodcuts (prints)</dcadesc:genre>
+      <dcadesc:genre>colored prints (prints)</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>stencils (visual works)</dcadesc:genre>
+      <dcadesc:genre>prints (visual works)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_34.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Saint Christopher with the Christ Child.</dc:title>
+      <dc:creator>Pereyns, Simón, -1589.</dc:creator>
+      <dc:description>Painted by Simón Pereyns, one of the three European artists who dominated late
+         16th century painting in New Spain, this is one of his earliest dated paintings in New
+         Spain. Painted in the "Reformed Mannerist" style, it depicts the giant, Saint Christopher,
+         carrying the Christ Child across a river and was commissioned for an altarpiece in the
+         Mexico City Cathedral. Saint Christopher was of particular interest to the Spanish, who saw
+         their laborious efforts to carry Christianity across the Atlantic reflected in the story of
+         this giant and his holy cargo.</dc:description>
+      <dc:description>Location Created: Mexico City.</dc:description>
+      <dc:description>Date Created: 1588.</dc:description>
+      <dc:description>Current Location: Cathedral Metropolitana, Mexico City.</dc:description>
+      <dc:description>Medium: oil on wood panel.</dc:description>
+      <dc:description>6 ft 5 3/4 x 5 ft 1 in (200 x 155 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-34</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1588.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Fishes in art.</dcadesc:subject>
+      <dcadesc:subject>Giants in art.</dcadesc:subject>
+      <dcadesc:subject>Panel painting--16th century.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Mexico City--Modern period,
+         1500-</dcadesc:subject>
+      <dcadesc:subject>Fords (Stream crossings)</dcadesc:subject>
+      <dcadesc:subject>Rivers in art.</dcadesc:subject>
+      <dcadesc:persname>Jesus Christ--Art.</dcadesc:persname>
+      <dcadesc:persname>Christopher, Saint--Art.</dcadesc:persname>
+      <dcadesc:genre>panel paintings (paintings by form)</dcadesc:genre>
+      <dcadesc:genre>allegories (document genre)</dcadesc:genre>
+      <dcadesc:genre>altarpieces.</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_35.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Vision of Saint Francis at the Porziuncola.</dc:title>
+      <dc:creator>Echave Orio, Baltasar de, 1558-1623.</dc:creator>
+      <dc:description>Painted by Baltasar de Echave Orio, one of the late 16th century European
+         artists who dominated painting in New Spain, this picture depicts a legend concerning Saint
+         Francis. The legend recounts how the saint had a vision of Jesus and Mary at the
+         Porziuncola, a small church outside Assisi, Italy. They granted his request that those who
+         entered the Porziuncola be pardoned their sins. The painting originally formed part of the
+         main retablo at Santiago Tlatelolco. It was influenced by the works of artist Alonso
+         Vázquez and was painted in the Reformed Mannerist style, drawing elements from Spain,
+         Flanders, and Southern Italy. Furthermore, this style balanced a late-Renaissance
+         fascination with distorting space and elongating the human body with Counter-Reformation
+         demands that painting provide clear, direct, and inspirational messages.</dc:description>
+      <dc:description>Location Created: Tlatelolco, Mexico City.</dc:description>
+      <dc:description>Date created: 1609.</dc:description>
+      <dc:description>Current Location: Museo Nacional de Arte, Mexico City.</dc:description>
+      <dc:description>Medium: oil on canvas.</dc:description>
+      <dc:description>Measurements: 8 ft 1/4 in x 5 ft 3 5/8 in ( 244.5 x 161.6 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-35</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1609.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Visions in art.</dcadesc:subject>
+      <dcadesc:subject>Angels in art.</dcadesc:subject>
+      <dcadesc:subject>Legends in art.</dcadesc:subject>
+      <dcadesc:subject>Clouds in art.</dcadesc:subject>
+      <dcadesc:subject>Mannerism (Art)--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Mexico City--Modern period,
+         1500-</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:persname>Francis, of Assisi, Saint, 1182-1226--Art.</dcadesc:persname>
+      <dcadesc:persname>Jesus Christ--Art.</dcadesc:persname>
+      <dcadesc:persname>Mary, Blessed Virgin, Saint--Art.</dcadesc:persname>
+      <dcadesc:persname>Vázquez, Alonso, -1608--Influence.</dcadesc:persname>
+      <dcadesc:genre>oil paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>altarpieces.</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>retablos (panel paintings)</dcadesc:genre>
+      <dcadesc:genre>canvas paintings.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_36.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Saints Justus and Pastor.</dc:title>
+      <dc:creator>Juárez, José, 1617-1661.</dc:creator>
+      <dc:description>Painted by José Juárez, the finest painter of mid-seventeenth-century Mexico,
+         this painting illustrates the type of religious imagery that perfectly answered the
+         Counter-Reformation call for "decency," i.e. works that were not only spiritually correct
+         but also opulent and inspirational. It depicts the child martyrs Justus and Pastor,
+         beheaded in AD 304 outside the present-day city of Alcalá de Henares, Spain. The painting
+         emphasizes triumph and heroism over suffering, which reflected current doctrinal
+         requirements, inspired by Flemish engravings. The painting may allude to the ornate
+         procession the Pope order in 1567 for the bones return to Alcalá (through decorated cities
+         and past triumphal arches) and reveals the indirect impact of Zurbarán in its finely
+         crafted surfaces, interest in psychology, and complex architectural
+         framework.</dc:description>
+      <dc:description>Location created: Mexico.</dc:description>
+      <dc:description>Date Created: 1653.</dc:description>
+      <dc:description>Current Location: Museo Nacional de Arte, Mexico City.</dc:description>
+      <dc:description>Medium: oil on canvas.</dc:description>
+      <dc:description>Measurements: 12 ft 4 1/2 in x 9 ft 5 1/4 in (377 x 288 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-36</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1653.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Christian martyrs in art.</dcadesc:subject>
+      <dcadesc:subject>Christian child saints.</dcadesc:subject>
+      <dcadesc:subject>Palms in art.</dcadesc:subject>
+      <dcadesc:subject>Angels in art.</dcadesc:subject>
+      <dcadesc:subject>Flowers in art.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman, in art.</dcadesc:subject>
+      <dcadesc:subject>Martyrdom in art.</dcadesc:subject>
+      <dcadesc:subject>Beheading in art.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Modern period, 1500-</dcadesc:subject>
+      <dcadesc:subject>Engraving, Flemish--Influence.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:persname>Justus, of Trieste, Saint, -303--Art.</dcadesc:persname>
+      <dcadesc:genre>oil paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>canvas paintings.</dcadesc:genre>
+      <dcadesc:genre>Mannerist (Renaissance-Baroque style)</dcadesc:genre>
+      <dcadesc:genre>chiaroscuro.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_37.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Incredulity of Saint Thomas.</dc:title>
+      <dc:creator>López de Arteaga, Sebastián, 1610-1652.</dc:creator>
+      <dc:description>Painted by Sevillian artist Sebastián López de Arteaga, who emigrated from
+         Spain around 1640, this biblical painting is one of the most compelling images from
+         seventeenth-century Mexico. Depicting the doubtful saint Thomas gently touching wound in
+         Jesus's side, the painting has dramatic lighting that seems inspired by the tenebrism of
+         Caravaggio who painted a similar scene in 1600-1601. Unlike Caravaggio, however, Arteaga's
+         painting is less naturalistic and more eclectic, drawing on a variety of Sevillian sources,
+         including the paintings of the young Diego Velásquez.</dc:description>
+      <dc:description>Location Created: Mexico.</dc:description>
+      <dc:description>Date Created: c. 1643.</dc:description>
+      <dc:description>Current Location: Museo Nacional de Arte, Mexico City.</dc:description>
+      <dc:description>Medium: oil on canvas.</dc:description>
+      <dc:description>Measurements: 7 ft 3 3/4 in x 5 ft 1 in (222.9 x 154.9 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-37</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1643.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Apostles in art.</dcadesc:subject>
+      <dcadesc:subject>Senses and sensation in art.</dcadesc:subject>
+      <dcadesc:subject>Touch--Religious aspects--Christianity.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Modern period, 1500-</dcadesc:subject>
+      <dcadesc:persname>Thomas, Apostle, Saint, active 1st century--Art.</dcadesc:persname>
+      <dcadesc:persname>Jesus Christ--Appearances--Art.</dcadesc:persname>
+      <dcadesc:persname>Caravaggio, Michelangelo Merisi da, 1573-1610--Influence.</dcadesc:persname>
+      <dcadesc:genre>oil paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>canvas paintings.</dcadesc:genre>
+      <dcadesc:genre>tenebrism.</dcadesc:genre>
+      <dcadesc:genre>chiaroscuro.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_38.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Adoration of the Magi.</dc:title>
+      <dc:creator>Echave Rioja, Baltasar de, 1632-1682.</dc:creator>
+      <dc:description>This painting, by Baltasar de Echave Rioja, illustrates the impact of Flemish
+         art, and specifically the prints by and beyond Rubens, whose prints may have been given to
+         the artist as specific models. In addition to the prints, this painting shows the influence
+         of a painting on the same theme by Zurbarán. However, Rioja arranged his figures and
+         costumes in original ways and also relied on the art of his teacher, copying the standing
+         king on the far right almost exactly from a composition by Juárez, though he gave the man a
+         more naturalistic appearance.</dc:description>
+      <dc:description>Location Created: Mexico.</dc:description>
+      <dc:description>Date Created: 1659.</dc:description>
+      <dc:description>Current Location: Figge Art Museum, Davenport, Iowa.</dc:description>
+      <dc:description>Medium: oil on canvas.</dc:description>
+      <dc:description>Measurements: 5 ft 1/2 in x 6 ft 5 3/4 in (153.8 x 197.5 cm)</dc:description>
+      <dc:description>Original file name: 17.8543-38</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1659.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Magi--Art.</dcadesc:subject>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Doves in art.</dcadesc:subject>
+      <dcadesc:subject>Nimbus (Art)</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Modern period, 1500-</dcadesc:subject>
+      <dcadesc:subject>Prints, Flemish--Influence.</dcadesc:subject>
+      <dcadesc:persname>Zurbarán, Francisco de, 1598-1664--Influence.</dcadesc:persname>
+      <dcadesc:persname>Rubens, Peter Paul, 1577-1640--Influence.</dcadesc:persname>
+      <dcadesc:persname>Mary, Blessed Virgin, Saint--Art.</dcadesc:persname>
+      <dcadesc:persname>Jesus Christ--Nativity--Art.</dcadesc:persname>
+      <dcadesc:genre>oil paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>religious art.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>canvas paintings.</dcadesc:genre>
+      <dcadesc:genre>nativity figures.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla.</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cathedrals--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Catholic church buildings--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Facades--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>escutcheons (coats of arms)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla.</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Domes--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Catholic church buildings--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>domes (architectural elements)</dcadesc:genre>
+      <dcadesc:genre>exterior walls.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla.</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Puebla de Zaragoza--Details.</dcadesc:subject>
+      <dcadesc:subject>Domes--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>domes (architectural elements)</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla (view of dome from back).</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Puebla de Zaragoza--Details.</dcadesc:subject>
+      <dcadesc:subject>Domes--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>domes.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39d.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla (view of dome).</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39d</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Domes--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Puebla de Zaragoza--Details.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>domes.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_39e.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral at Puebla (view from ca. 1875-1890).</dc:title>
+      <dc:creator>Becerra, Francisco, 1545-1605</dc:creator>
+      <dc:creator>Gómez de Trasmonte, Juan, -1645?</dc:creator>
+      <dcterms:contributor>Becerril, Lorenzo, 1837-1904 (photographer)</dcterms:contributor>
+      <dc:description>Dedicated by Bishop Juan de Palafox y Mendoza for the Virgin of the Immaculate
+         Conception, this cathedral was meant to be a finer replacement to one finished in the
+         1530s, one of the earliest cathedrals. Based on a plan by architect Francisco Becerra, this
+         building plan was further enhanced and modified by the involvement of Juan Gómez de
+         Trasmonte. It features the Habsburg coat of arms and its exterior, rather austere, was
+         shaped by the Counter-Reformation rigor of El Escorial, with its severe lines, blocky
+         features, and lack of emphasis on surface ornament (other than the large relief panels,
+         which were common on seventeenth-century Mexico) Location created: Puebla,
+         Mexico.</dc:description>
+      <dc:description>Date created: 1575-1768; facade 1664, towers 1678 (north) and 1768
+         (south)</dc:description>
+      <dc:description>Current location: Puebla, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-39e</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1575.</dcterms:date>
+      <dcterms:date>1768.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cathedrals--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Catholic church buildings--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Facades--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de Puebla.</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dcadesc:genre>escutcheons (coats of arms)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_40.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral of Mexico City.</dc:title>
+      <dc:creator>Arciniega, Claudio de, approximately 1526-1592 or 1593.</dc:creator>
+      <dc:description>Based on a plan of 1562 by Claudio Arciniega and inspired by the new cathedral
+         of Jaén in Spain, this cathedral was named the seat of the archbishop in 1541, and thus
+         attained the status of "Metropolitan Cathedral." It has sculptural relief in the center of
+         the facade of the present building shows its patron, the Virgin of the Assumption. The
+         Metropolitan Cathedral is the largest cathedral in the Americas; furthermore, it is
+         situated atop the former Aztec sacred precinct near the Templo Mayor on the northern side
+         of the Plaza de la Constitución in Downtown Mexico City. After the Spanish conquest of the
+         Aztec Empire, the conquistadors decided to build their church on the site of the Templo
+         Mayor of the Aztec city of Tenochtitlan to consolidate Spanish power over the newly
+         conquered domain. Hernán Cortés and the other conquistadors used the stones from the
+         destroyed temple of the Aztec god of war Huitzilopochtli, principal deity of the Aztecs, to
+         build the church. It had the Habsburg coat of arms but it was changed after independence,
+         and, like the Cathedral of Puebla, its exterior is also shaped by the Counter-Reformation
+         rigor of El Escorial.</dc:description>
+      <dc:description>Location: Mexico City.</dc:description>
+      <dc:description>Date created: 1573-1817.</dc:description>
+      <dc:description>Current Location: Mexico City.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-40</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1573.</dcterms:date>
+      <dcterms:date>1817.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cathedrals--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church buildings--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de México.</dcadesc:corpname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:temporal>19th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_40a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral of Mexico City.</dc:title>
+      <dc:creator>Arciniega, Claudio de, approximately 1526-1592 or 1593.</dc:creator>
+      <dc:description>Based on a plan of 1562 by Claudio Arciniega and inspired by the new cathedral
+         of Jaén in Spain, this cathedral was named the seat of the archbishop in 1541, and thus
+         attained the status of "Metropolitan Cathedral." It has sculptural relief in the center of
+         the facade of the present building shows its patron, the Virgin of the Assumption. The
+         Metropolitan Cathedral is the largest cathedral in the Americas; furthermore, it is
+         situated atop the former Aztec sacred precinct near the Templo Mayor on the northern side
+         of the Plaza de la Constitución in Downtown Mexico City. After the Spanish conquest of the
+         Aztec Empire, the conquistadors decided to build their church on the site of the Templo
+         Mayor of the Aztec city of Tenochtitlan to consolidate Spanish power over the newly
+         conquered domain. Hernán Cortés and the other conquistadors used the stones from the
+         destroyed temple of the Aztec god of war Huitzilopochtli, principal deity of the Aztecs, to
+         build the church. It had the Habsburg coat of arms but it was changed after independence,
+         and, like the Cathedral of Puebla, its exterior is also shaped by the Counter-Reformation
+         rigor of El Escorial.</dc:description>
+      <dc:description>Location: Mexico City.</dc:description>
+      <dc:description>Date created: 1573-1817.</dc:description>
+      <dc:description>Current Location: Mexico City.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-40a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1573.</dcterms:date>
+      <dcterms:date>1817.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cathedrals--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church buildings--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de México.</dcadesc:corpname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:temporal>19th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_40b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral of Mexico City.</dc:title>
+      <dc:creator>Arciniega, Claudio de, approximately 1526-1592 or 1593.</dc:creator>
+      <dc:description>Based on a plan of 1562 by Claudio Arciniega and inspired by the new cathedral
+         of Jaén in Spain, this cathedral was named the seat of the archbishop in 1541, and thus
+         attained the status of "Metropolitan Cathedral." It has sculptural relief in the center of
+         the facade of the present building shows its patron, the Virgin of the Assumption. The
+         Metropolitan Cathedral is the largest cathedral in the Americas; furthermore, it is
+         situated atop the former Aztec sacred precinct near the Templo Mayor on the northern side
+         of the Plaza de la Constitución in Downtown Mexico City. After the Spanish conquest of the
+         Aztec Empire, the conquistadors decided to build their church on the site of the Templo
+         Mayor of the Aztec city of Tenochtitlan to consolidate Spanish power over the newly
+         conquered domain. Hernán Cortés and the other conquistadors used the stones from the
+         destroyed temple of the Aztec god of war Huitzilopochtli, principal deity of the Aztecs, to
+         build the church. It had the Habsburg coat of arms but it was changed after independence,
+         and, like the Cathedral of Puebla, its exterior is also shaped by the Counter-Reformation
+         rigor of El Escorial.</dc:description>
+      <dc:description>Location: Mexico City.</dc:description>
+      <dc:description>Date created: 1573-1817.</dc:description>
+      <dc:description>Current Location: Mexico City.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-40b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1573.</dcterms:date>
+      <dcterms:date>1817.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cathedrals--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church buildings--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de México.</dcadesc:corpname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:temporal>19th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_40c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral of Mexico City (Bell tower).</dc:title>
+      <dc:creator>Arciniega, Claudio de, approximately 1526-1592 or 1593.</dc:creator>
+      <dc:description>Based on a plan of 1562 by Claudio Arciniega and inspired by the new cathedral
+         of Jaén in Spain, this cathedral was named the seat of the archbishop in 1541, and thus
+         attained the status of "Metropolitan Cathedral." It has sculptural relief in the center of
+         the facade of the present building shows its patron, the Virgin of the Assumption. The
+         Metropolitan Cathedral is the largest cathedral in the Americas; furthermore, it is
+         situated atop the former Aztec sacred precinct near the Templo Mayor on the northern side
+         of the Plaza de la Constitución in Downtown Mexico City. After the Spanish conquest of the
+         Aztec Empire, the conquistadors decided to build their church on the site of the Templo
+         Mayor of the Aztec city of Tenochtitlan to consolidate Spanish power over the newly
+         conquered domain. Hernán Cortés and the other conquistadors used the stones from the
+         destroyed temple of the Aztec god of war Huitzilopochtli, principal deity of the Aztecs, to
+         build the church. It had the Habsburg coat of arms but it was changed after independence,
+         and, like the Cathedral of Puebla, its exterior is also shaped by the Counter-Reformation
+         rigor of El Escorial.</dc:description>
+      <dc:description>Location: Mexico City.</dc:description>
+      <dc:description>Date created: 1573-1817.</dc:description>
+      <dc:description>Current Location: Mexico City.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-40c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1573.</dcterms:date>
+      <dcterms:date>1817.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Bell towers--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Mexico City--Details.</dcadesc:subject>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:corpname>Catedral de México.</dcadesc:corpname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:temporal>19th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_40d.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Cathedral of Mexico City (Clock tower view).</dc:title>
+      <dc:creator>Arciniega, Claudio de, approximately 1526-1592 or 1593.</dc:creator>
+      <dc:description>Based on a plan of 1562 by Claudio Arciniega and inspired by the new cathedral
+         of Jaén in Spain, this cathedral was named the seat of the archbishop in 1541, and thus
+         attained the status of "Metropolitan Cathedral." It has sculptural relief in the center of
+         the facade of the present building shows its patron, the Virgin of the Assumption. The
+         Metropolitan Cathedral is the largest cathedral in the Americas; furthermore, it is
+         situated atop the former Aztec sacred precinct near the Templo Mayor on the northern side
+         of the Plaza de la Constitución in Downtown Mexico City. After the Spanish conquest of the
+         Aztec Empire, the conquistadors decided to build their church on the site of the Templo
+         Mayor of the Aztec city of Tenochtitlan to consolidate Spanish power over the newly
+         conquered domain. Hernán Cortés and the other conquistadors used the stones from the
+         destroyed temple of the Aztec god of war Huitzilopochtli, principal deity of the Aztecs, to
+         build the church. It had the Habsburg coat of arms but it was changed after independence,
+         and, like the Cathedral of Puebla, its exterior is also shaped by the Counter-Reformation
+         rigor of El Escorial.</dc:description>
+      <dc:description>Location: Mexico City.</dc:description>
+      <dc:description>Date created: 1573-1817.</dc:description>
+      <dc:description>Current Location: Mexico City.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-40d</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1573.</dcterms:date>
+      <dcterms:date>1817.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Tower clocks--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Escutcheons (Heraldry)--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Mexico City--Details.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Mexico
+         City.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Mexico City.</dcadesc:subject>
+      <dcadesc:subject>Counter-Reformation in art.</dcadesc:subject>
+      <dcadesc:persname>Mary, Blessed Virgin, Saint--Assumption--Art.</dcadesc:persname>
+      <dcadesc:corpname>Catedral de México.</dcadesc:corpname>
+      <dcadesc:geogname>Mexico City (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>tower clocks (clocks)</dcadesc:genre>
+      <dcadesc:genre>escutcheons (coats of arms)</dcadesc:genre>
+      <dcadesc:genre>portals.</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dcadesc:genre>high reliefs (sculpture)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Colonial Latin American architecture styles.</dcadesc:genre>
+      <dcadesc:genre>cathedrals (buildings)</dcadesc:genre>
+      <dcadesc:genre>Counter-Reformation.</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:temporal>18th century.</dc:temporal>
+      <dc:temporal>19th century.</dc:temporal>
+      <dc:spatial>Mexico--Mexico City.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_41.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Main Retablo for the Church of Santo Domingo (in situ).</dc:title>
+      <dc:description>Unlike the many facades and altarpieces of the late seventeenth and early
+         eighteenth centuries which preserve the rectilinear architectural framework that had
+         defined the Renaissance period, this retablo has undulating forms with its surface
+         ornamentation seeping into the flat areas above arches and on the column bases and shafts.
+         It also illustrates a denser array of elements--with the painted areas now squeezed out by
+         sculpture--and Solomonic columns, the corkscrew-like forms of which are partly obscured by
+         applied grapevines, as if gilding the lily. In the surviving contract for the altarpiece,
+         the Dominican friars specifically requested that the Mexico City master Pedro Maldonado
+         include these decorated Solomonic columns on the first level, and, on the top story,
+         incorporate a relief of the Nativity taken from the previous 16th century
+         retablo.</dc:description>
+      <dc:description>Location created: Puebla.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Current Location: Church of Santo Domingo, Puebla.</dc:description>
+      <dc:description>Medium: gilded wood.</dc:description>
+      <dc:description>Original file name: 17.8543-41</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Altarpieces, Baroque--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Altarpieces, Mexican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Arches--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Bishops in art.</dcadesc:subject>
+      <dcadesc:subject>Wood sculpture, Mexican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Columns, Spiral--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Grapes in art.</dcadesc:subject>
+      <dcadesc:subject>Lilies in art.</dcadesc:subject>
+      <dcadesc:subject>Art, Dominican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:persname>Jesus Christ--Nativity--Art.</dcadesc:persname>
+      <dcadesc:corpname>Capilla del Rosario (Santo Domingo (Church : Puebla de Zaragoza,
+         Mexico))</dcadesc:corpname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>retables (altar appendage)</dcadesc:genre>
+      <dcadesc:genre>sculpture (visual works)</dcadesc:genre>
+      <dcadesc:genre>spiral columns.</dcadesc:genre>
+      <dcadesc:genre>arches.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_41a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Main Retablo for the Church of Santo Domingo.</dc:title>
+      <dc:description>Unlike the many facades and altarpieces of the late seventeenth and early
+         eighteenth centuries which preserve the rectilinear architectural framework that had
+         defined the Renaissance period, this retablo has undulating forms with its surface
+         ornamentation seeping into the flat areas above arches and on the column bases and shafts.
+         It also illustrates a denser array of elements--with the painted areas now squeezed out by
+         sculpture--and Solomonic columns, the corkscrew-like forms of which are partly obscured by
+         applied grapevines, as if gilding the lily. In the surviving contract for the altarpiece,
+         the Dominican friars specifically requested that the Mexico City master Pedro Maldonado
+         include these decorated Solomonic columns on the first level, and, on the top story,
+         incorporate a relief of the Nativity taken from the previous 16th century
+         retablo.</dc:description>
+      <dc:description>Location created: Puebla.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Current Location: Church of Santo Domingo, Puebla.</dc:description>
+      <dc:description>Medium: gilded wood.</dc:description>
+      <dc:description>Original file name: 17.8543-41a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Altarpieces, Baroque--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Altarpieces, Mexican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Arches--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Christian saints in art.</dcadesc:subject>
+      <dcadesc:subject>Bishops in art.</dcadesc:subject>
+      <dcadesc:subject>Wood sculpture, Mexican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Columns, Spiral--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Grapes in art.</dcadesc:subject>
+      <dcadesc:subject>Lilies in art.</dcadesc:subject>
+      <dcadesc:subject>Art, Dominican--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:persname>Jesus Christ--Nativity--Art.</dcadesc:persname>
+      <dcadesc:corpname>Capilla del Rosario (Santo Domingo (Church : Puebla de Zaragoza,
+         Mexico))</dcadesc:corpname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>retables (altar appendage)</dcadesc:genre>
+      <dcadesc:genre>sculpture (visual works)</dcadesc:genre>
+      <dcadesc:genre>spiral columns.</dcadesc:genre>
+      <dcadesc:genre>arches.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_42.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of La Soledad.</dc:title>
+      <dcterms:alternative>Basilica of Our Lady of Solitude</dcterms:alternative>
+      <dcterms:contributor>Sigüenza, Tomás de.</dcterms:contributor>
+      <dc:description>Carved from soft green stone after a design by a local sculptor named Tomás de
+         Sigüenza, this massive façade has surface decoration that expands up as one looks upwards
+         to the Virgin of the Immaculate Conception which serves as a metaphor for the greater
+         splendors to be found as one approaches heaven. The thick, buttress like facade was created
+         specifically to resist seismic activity as the area of Oaxaca was particularly prone to
+         earthquakes. This is also the reason for the low towers and stunted profiles of the Oaxaca
+         Cathedral.</dc:description>
+      <dc:description>Location Created: Oaxaca, Mexico.</dc:description>
+      <dc:description>Date created: c 1690.</dc:description>
+      <dc:description>Current Location: Oaxaca, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-42</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1690.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church architecture--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture, Baroque--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Oaxaca
+         (State)</dcadesc:subject>
+      <dcadesc:subject>Stone carving--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Facades--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Statues--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Earthquake resistant design--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:corpname>Templo de la Soledad (Oaxaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Oaxaca (Mexico : State)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>carvings (visual works)</dcadesc:genre>
+      <dcadesc:genre>basilicas.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dcadesc:genre>high reliefs (sculpture)</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Oaxaca (State)</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_42a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of La Soledad.</dc:title>
+      <dcterms:alternative>Basilica of Our Lady of Solitude</dcterms:alternative>
+      <dcterms:contributor>Sigüenza, Tomás de.</dcterms:contributor>
+      <dc:description>Carved from soft green stone after a design by a local sculptor named Tomás de
+         Sigüenza, this massive façade has surface decoration that expands up as one looks upwards
+         to the Virgin of the Immaculate Conception which serves as a metaphor for the greater
+         splendors to be found as one approaches heaven. The thick, buttress like facade was created
+         specifically to resist seismic activity as the area of Oaxaca was particularly prone to
+         earthquakes. This is also the reason for the low towers and stunted profiles of the Oaxaca
+         Cathedral.</dc:description>
+      <dc:description>Location Created: Oaxaca, Mexico.</dc:description>
+      <dc:description>Date created: c 1690.</dc:description>
+      <dc:description>Current Location: Oaxaca, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-42a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1690.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church architecture--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture, Baroque--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Earthquake resistant design--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:corpname>Templo de la Soledad (Oaxaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Oaxaca (Mexico : State)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>basilicas.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Oaxaca (State)</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_42b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of La Soledad.</dc:title>
+      <dcterms:alternative>Basilica of Our Lady of Solitude</dcterms:alternative>
+      <dcterms:contributor>Sigüenza, Tomás de.</dcterms:contributor>
+      <dc:description>Carved from soft green stone after a design by a local sculptor named Tomás de
+         Sigüenza, this massive façade has surface decoration that expands up as one looks upwards
+         to the Virgin of the Immaculate Conception which serves as a metaphor for the greater
+         splendors to be found as one approaches heaven. The thick, buttress like facade was created
+         specifically to resist seismic activity as the area of Oaxaca was particularly prone to
+         earthquakes. This is also the reason for the low towers and stunted profiles of the Oaxaca
+         Cathedral.</dc:description>
+      <dc:description>Location Created: Oaxaca, Mexico.</dc:description>
+      <dc:description>Date created: c 1690.</dc:description>
+      <dc:description>Current Location: Oaxaca, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-42b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1690.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church architecture--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture, Baroque--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Oaxaca
+         (State)</dcadesc:subject>
+      <dcadesc:subject>Stone carving--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Facades--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Statues--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Bell towers--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Earthquake resistant design--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:corpname>Templo de la Soledad (Oaxaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Oaxaca (Mexico : State)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>basilicas.</dcadesc:genre>
+      <dcadesc:genre>bell towers.</dcadesc:genre>
+      <dcadesc:genre>portals.</dcadesc:genre>
+      <dcadesc:genre>carvings (visual works)</dcadesc:genre>
+      <dcadesc:genre>high reliefs (sculpture)</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Oaxaca (State)</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_42c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of La Soledad (detail).</dc:title>
+      <dcterms:alternative>Basilica of Our Lady of Solitude</dcterms:alternative>
+      <dcterms:contributor>Sigüenza, Tomás de.</dcterms:contributor>
+      <dc:description>Carved from soft green stone after a design by a local sculptor named Tomás de
+         Sigüenza, this massive façade has surface decoration that expands up as one looks upwards
+         to the Virgin of the Immaculate Conception which serves as a metaphor for the greater
+         splendors to be found as one approaches heaven. The thick, buttress like facade was created
+         specifically to resist seismic activity as the area of Oaxaca was particularly prone to
+         earthquakes. This is also the reason for the low towers and stunted profiles of the Oaxaca
+         Cathedral.</dc:description>
+      <dc:description>Location Created: Oaxaca, Mexico.</dc:description>
+      <dc:description>Date created: c 1690.</dc:description>
+      <dc:description>Current Location: Oaxaca, Mexico.</dc:description>
+      <dc:description>Medium: architecture.</dc:description>
+      <dc:description>Original file name: 17.8543-42c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1690.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Oaxaca
+         (State)</dcadesc:subject>
+      <dcadesc:subject>Stone carving--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Church architecture--Mexico--Oaxaca (State)--Details.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture)--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Cathedrals--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:subject>Architecture, Baroque--Mexico--Oaxaca (State)</dcadesc:subject>
+      <dcadesc:corpname>Templo de la Soledad (Oaxaca, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Oaxaca (Mexico : State)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>basilicas.</dcadesc:genre>
+      <dcadesc:genre>carvings (visual works)</dcadesc:genre>
+      <dcadesc:genre>high reliefs (sculpture)</dcadesc:genre>
+      <dcadesc:genre>Renaissance-Baroque decorative arts styles.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Oaxaca (State)</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_43.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of Santo Domingo.</dc:title>
+      <dc:description>The grey façade of Santo Domingo is an example of severe Herreran classicism,
+         but this gives way to a lavish interior, the walls and ceilings of which are decorated in
+         plaster strapwork, painted and gilded.</dc:description>
+      <dc:description>Location created: Puebla, Mexico.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Original file name: 17.8543-43</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church buildings--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Mexico--Puebla de
+         Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Santo Domingo (Church : Puebla de Zaragoza, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>churches (buildings)</dcadesc:genre>
+      <dcadesc:genre>Herreran.</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_43a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of Santo Domingo (interior view).</dc:title>
+      <dc:description>The grey façade of Santo Domingo is an example of severe Herreran classicism,
+         but this gives way to a lavish interior, the walls and ceilings of which are decorated in
+         plaster strapwork, painted and gilded.</dc:description>
+      <dc:description>Location created: Puebla, Mexico.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Original file name: 17.8543-43a</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church decoration and ornament--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Mysteries of the Rosary in art.</dcadesc:subject>
+      <dcadesc:subject>Christian art and symbolism--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Capilla del Rosario (Santo Domingo (Church : Puebla de Zaragoza,
+         Mexico))</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>chapels (rooms or structures)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Herreran.</dcadesc:genre>
+      <dcadesc:genre>spiral columns.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_43b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of Santo Domingo (exterior detail).</dc:title>
+      <dc:description>The grey façade of Santo Domingo is an example of severe Herreran classicism,
+         but this gives way to a lavish interior, the walls and ceilings of which are decorated in
+         plaster strapwork, painted and gilded.</dc:description>
+      <dc:description>Location created: Puebla, Mexico.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Original file name: 17.8543-43b</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church architecture--Mexico--Puebla de Zaragoza--Details.</dcadesc:subject>
+      <dcadesc:subject>Church decoration and ornament--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Santo Domingo (Church : Puebla de Zaragoza, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>churches (buildings)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Herreran.</dcadesc:genre>
+      <dcadesc:genre>spiral columns.</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>17_8543_43c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Church of Santo Domingo.</dc:title>
+      <dc:description>The grey façade of Santo Domingo is an example of severe Herreran classicism,
+         but this gives way to a lavish interior, the walls and ceilings of which are decorated in
+         plaster strapwork, painted and gilded.</dc:description>
+      <dc:description>Location created: Puebla, Mexico.</dc:description>
+      <dc:description>Date Created: 1688-90.</dc:description>
+      <dc:description>Original file name: 17.8543-43c</dc:description>
+      <dc:source>Oles</dc:source>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>1688.</dcterms:date>
+      <dcterms:date>1690.</dcterms:date>
+      <dc:date.created>2017-08-16T10:32:42.554-04:00</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Church buildings--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Mexico--Spanish influences.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Spanish colonial--Mexico--Puebla de Zaragoza.</dcadesc:subject>
+      <dcadesc:corpname>Santo Domingo (Church : Puebla de Zaragoza, Mexico)</dcadesc:corpname>
+      <dcadesc:geogname>Puebla de Zaragoza (Mexico)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>churches (buildings)</dcadesc:genre>
+      <dcadesc:genre>Spanish Colonial.</dcadesc:genre>
+      <dcadesc:genre>Herreran.</dcadesc:genre>
+      <dcadesc:genre>fronts (architectural)</dcadesc:genre>
+      <dc:temporal>17th century.</dc:temporal>
+      <dc:spatial>Mexico--Puebla de Zaragoza.</dc:spatial>
+      <dcterms:license/>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchIngest: 2017-08-16T10:32:42.554-04:00; Tisch manages metadata and
+         binary.</ac:comment>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+      <admin:embargo/>
+   </digitalObject>
+</input>

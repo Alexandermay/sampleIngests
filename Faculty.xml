@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+   xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/"
+   xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>TIER_JAdolescRes_Dec292016.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Rapid Repeat Birth: Intersections Between Meaning-Making and Situational Support
+         Among Multiparous Adolescent Mothers.</dc:title>
+      <dc:creator>Reddy, Julia.</dc:creator>
+      <dc:creator>Mistry, Jayanthi.</dc:creator>
+      <dc:creator>Jacobs, Francine Helene.</dc:creator>
+      <dc:description>This study examined interpretations of motherhood among adolescents who have
+         experienced rapid repeat births (second births within 24 months of the primiparous birth)
+         Analyses of participants' descriptions of their transitions to motherhood indicate four
+         modal narratives that vary along two axes: the adoption of a motherhood identity, and the
+         nature (or stability) of relational support available. By using subjective perceptions of
+         motivation, stability, and feelings of competence, this study linked intrapersonal
+         meaning-making with situational sources of support to describe various pathways through
+         repeat adolescent childbearing in a way that both confirms and enriches extant literature.
+         The implications of this study instruct home visiting programs and other interventions
+         designed to forestall repeat pregnancies by elucidating pathways of reinforcement or
+         increased risk inherent in some maternal trajectories. Following this logic, interventions
+         directed at improving outcomes for young mothers and their children would do well to
+         consider the interplay between internal meaning-making, relational support, and the
+         transformative power of adopting the mother identity.</dc:description>
+      <dc:description>Original file name: TIER_JAdolescRes_Dec292016</dc:description>
+      <dc:bibliographicCitation>Reddy, J., Misty, J., Jacobs, F. Rapid repeat birth: Intersections
+         between meaning-making and situational support among multiparous adolescent mothers.
+         Journal of Adolescent Research. Prepublished December 29, 2016,
+         https://doi.org/10.1177/0743558416684956.</dc:bibliographicCitation>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>2017.</dcterms:date>
+      <dc:date.created>2017-08-16T09:19:29.748-04:00</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Teenage mothers.</dcadesc:subject>
+      <dcadesc:subject>Motherhood.</dcadesc:subject>
+      <dcadesc:corpname>Tufts University. Eliot-Pearson Department of Child
+         Study.</dcadesc:corpname>
+      <dcterms:license>Signed TDL form from Rebecca Fauth on behalf of TIER 8/3/17. Sage allows
+         deposit of AM in IR on acceptance:
+         https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use
+         (https://perma.cc/7NE7-YUSJ)</dcterms:license>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>FacultyScholarshipIngest: 2017-08-16T09:19:29.748-04:00; Tisch manages metadata
+         and binary.</ac:comment>
+      <admin:displays>dl</admin:displays>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>TIER_AmJOrthopsychiatry_Vol86_1_.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Patterns of Depression Among Adolescent Mothers: Resilience Related to Father
+         Support and Home Visiting Program.</dc:title>
+      <dc:creator>Easterbrooks, M. Ann.</dc:creator>
+      <dc:creator>Kotake, Chie.</dc:creator>
+      <dc:creator>Raskin, Maryna.</dc:creator>
+      <dc:creator>Bumgarner, Erin.</dc:creator>
+      <dc:description>The negative consequences of maternal depression are a major public health
+         concern, both for mothers and for their children. Despite the high prevalence of depression
+         among adolescent mothers, little is known about the patterns of adolescent mothers'
+         depression in the early parenting years. The present study examined mothers' depression
+         during the first 2 years following childbirth in a sample of 428 young mothers (20 or
+         younger at first childbirth) who were participants in a randomized controlled trial of a
+         home visiting parenting support program. Depressive symptoms were assessed using the
+         self-reported Center for Epidemiological Studies Depression Scale (CES-D) Mothers were
+         classified into groups based on whether their depressive symptoms were below or above the
+         cutoff for clinically significant symptomatology. Depression groups (stable nondepressed,
+         stable depressed, remitted depression) were associated with variations in mothers'
+         satisfaction with support from the baby's father and enrollment in the home visiting
+         program. Maternal depression was more likely to remit when mothers were satisfied with
+         father support; assignment to the home visiting program was associated with mothers
+         remaining mentally healthy. Results have clinical and policy implications for prevention
+         and intervention programs. ©American Psychological Association, 2016. This paper is not the
+         copy of record and may not exactly replicate the authoritative document published in the
+         APA journal. Please do not copy or cite without author's permission. The final article is
+         available, upon publication, at: http://dx.doi.org/10.1037/ort0000093.</dc:description>
+      <dc:description>Original file name: TIER_AmJOrthopsychiatry_Vol86(1)</dc:description>
+      <dc:bibliographicCitation>Easterbrooks, M. A., Kotake, C., Raskin, M., &amp; Bumgarner, E.
+         (2016). Patterns of depression among adolescent mothers: Resilience related to father
+         support and home visiting program. American Journal of Orthopsychiatry, 86(1), 61-68.
+         http://dx.doi.org/10.1037/ort0000093.</dc:bibliographicCitation>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>2016.</dcterms:date>
+      <dc:date.created>2017-08-16T09:19:29.748-04:00</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Teenage mothers.</dcadesc:subject>
+      <dcadesc:subject>Depression, Mental.</dcadesc:subject>
+      <dcadesc:corpname>Tufts University. Eliot-Pearson Department of Child
+         Study.</dcadesc:corpname>
+      <dcterms:license>Signed TDL form from Rebecca Fauth on behalf of TIER 8/3/17. APA permits
+         posting of AM after acceptance: http://www.apa.org/pubs/authors/posting.aspx
+         (https://perma.cc/5XKX-XFEK)</dcterms:license>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>FacultyScholarshipIngest: 2017-08-16T09:19:29.748-04:00; Tisch manages metadata
+         and binary.</ac:comment>
+      <admin:displays>dl</admin:displays>
+      <admin:embargo/>
+   </digitalObject>
+   <digitalObject>
+      <file>TIER_JFamPsychol_Vol30_3_.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Relationship types among adolescent parents participating in a home-visiting
+         program: A latent-transition analysis.</dc:title>
+      <dc:creator>Raskin, Maryna.</dc:creator>
+      <dc:creator>Fosse, Nathan E.</dc:creator>
+      <dc:creator>Fauth, Rebecca.</dc:creator>
+      <dc:creator>Bumgarner, Erin.</dc:creator>
+      <dc:creator>Easterbrooks, M. Ann.</dc:creator>
+      <dc:description>Young parents (less than 25 years of age) have been shown to have especially
+         low rates of father involvement and union stability. However, research has also shown that
+         parenting experiences of young fathers may not be uniform. There is a need for more
+         research that assesses both the multidimensionality of relationship typologies and their
+         temporality. Using a large longitudinal sample of low-income, young mothers enrolled in a
+         randomized control study of a home-visitation program (n = 704; 61% program, 39% control),
+         we evaluated how mother-father relationship dynamics changed over time. Ten mother-reported
+         indicators of relationships (e.g., coresidence, marital status, types of father support)
+         were used to conduct a latent-class analysis of relationship types. A 4-class solution was
+         identified at each time point: Single Parent, Supportive Nonresident Partner, Supportive
+         Resident Partner, and Questioning/Ambivalent Coupling. Latent-transition analyses were used
+         to evaluate stability of relationships across 2 years. At each transition, a large
+         proportion of women moved from one relationship class to another, indicating heterogeneity
+         in relationship dynamics of adolescent parents. Results revealed the potential of a
+         home-visiting program targeted at young parents to favorably promote more stable and
+         supportive mother-father relationships and coparenting arrangements. ©American
+         Psychological Association, 2016. This paper is not the copy of record and may not exactly
+         replicate the authoritative document published in the APA journal. Please do not copy or
+         cite without author's permission. The final article is available, upon publication, at:
+         http://dx.doi.org/10.1037/fam0000164.</dc:description>
+      <dc:description>Original file name: TIER_JFamPsychol_Vol30(3)</dc:description>
+      <dc:bibliographicCitation>Raskin, M., Fosse, N. E., Fauth, R. C., Bumgarner, E., &amp;
+         Easterbrooks, M. A. (2016). Relationship types among adolescent parents participating in a
+         home-visiting program: A latent-transition analysis. Journal of Family Psychology, 30(3),
+         375-385. http://dx.doi.org/10.1037/fam0000164</dc:bibliographicCitation>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dcterms:date>2016.</dcterms:date>
+      <dc:date.created>2017-08-16T09:19:29.748-04:00</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Parents.</dcadesc:subject>
+      <dcadesc:subject>Fathers.</dcadesc:subject>
+      <dcadesc:corpname>Tufts University. Eliot-Pearson Department of Child
+         Study.</dcadesc:corpname>
+      <dcterms:license>Signed TDL form from Rebecca Fauth on behalf of TIER 8/3/17. APA permits
+         posting of AM after acceptance: http://www.apa.org/pubs/authors/posting.aspx
+         (https://perma.cc/5XKX-XFEK)</dcterms:license>
+      <dc:rights>https://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>FacultyScholarshipIngest: 2017-08-16T09:19:29.748-04:00; Tisch manages metadata
+         and binary.</ac:comment>
+      <admin:displays>dl</admin:displays>
+      <admin:embargo/>
+   </digitalObject>
+</input>

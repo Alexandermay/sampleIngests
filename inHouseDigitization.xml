@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+   xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/"
+   xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+   xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>Concerning_Children.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Concerning children / by Charlotte Perkins (Stetson) Gilman.</dc:title>
+      <dc:creator>Gilman, Charlotte Perkins, 1860-1935.</dc:creator>
+      <dc:description>1 online resource (95 pages).</dc:description>
+      <dc:description>"Issued for the Rationalist Press Association, Limited, by arrangement with
+         Messrs. G.P. Putnam's Sons."</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-02-22</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Gilman, Charlotte Perkins, 1860-1935. Concerning children. London :
+         Watts, 1907.</dc:source>
+      <dcterms:date>1907</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Child rearing.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Rationalist Press Association.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Friedrich_Wilhelm_Foerster_20160804.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Friedrich Wilhelm Foerster als Ethiker, Politiker und Pädagoge / von Ludwig Pilger,
+         Religionslehrer an der Kreisoberrealschule Passau ; mit einem Portrait Friedrich Wilhelm
+         Foersters.</dc:title>
+      <dc:creator>Pilger, Ludwig.</dc:creator>
+      <dc:description>1 online resource (109 pages) : portrait.</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-08-04</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Pilger, Ludwig. Friedrich Wilhelm Foerster als Ethiker, Politiker
+         und Pädagoge. München : Arche-verlag, 1922.</dc:source>
+      <dc:source>(OCoLC)25100379</dc:source>
+      <dc:source>BJ753.F7P5</dc:source>
+      <dcterms:date>1922</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Foerster, Friedrich Wilhelm, 1869-1966.</dcadesc:persname>
+      <dcadesc:subject>Moral education.</dcadesc:subject>
+      <dcadesc:subject>Education--Philosophy.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:language>ger</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Agency_Costs.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Agency costs, bank monitoring, and the pricing of public debt : evidence from the
+         Japanese corporate bond market : a thesis presented to the faculty of the Fletcher School
+         of Law and Diplomacy in partial fulfillment of the requirements for the degree of doctor of
+         philosophy / by Patrick J. Schena.</dc:title>
+      <dc:creator>Schena, Patrick J., 1956- author.</dc:creator>
+      <dc:description>1 online resource (ii, 139 leaves)</dc:description>
+      <dc:description>"December 1999."</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-04-04</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Schena, Patrick J. , 1956-Agency costs, bank monitoring, and the
+         pricing of public debt. 1999.</dc:source>
+      <dcterms:date>1999</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Bond market--Japan.</dcadesc:subject>
+      <dcadesc:subject>Corporate bonds--Japan--Marketing.</dcadesc:subject>
+      <dcadesc:subject>Banks and banking, Japanese.</dcadesc:subject>
+      <dcadesc:subject>Debts, Public--Japan.</dcadesc:subject>
+      <dcadesc:genre>Tufts dissertations and theses.</dcadesc:genre>
+      <dcadesc:genre>Electronic dissertations.</dcadesc:genre>
+      <dcterms:contributor>Fletcher School of Law and Diplomacy.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>History_of_Somerville_Journalism_20160405.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>History of Somerville journalism / by Barbara Galpin.</dc:title>
+      <dc:creator>Galpin, Barbara.</dc:creator>
+      <dc:description>1 online resource (31 leaves) : illustrations, portraits.</dc:description>
+      <dc:description>Read before the society.</dc:description>
+      <dc:description>"June 1901."</dc:description>
+      <dc:description>"With a list of members, officers, and committees of the Somerville Historical
+         Society."</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-04-05</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Galpin, Barbara. History of Somerville journalism. [Somerville,
+         Mass. ] : [Somerville Historical Society], [1901].</dc:source>
+      <dcterms:date>1901</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:geogname>Somerville (Mass.)--History.</dcadesc:geogname>
+      <dcadesc:subject>Journalism--Massachusetts--Somerville.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Somerville Historical Society (Somerville, Mass.)</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Jean_Mayer.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Jean Mayer : a bibliography, 1948-1993 / cumulation edited by Margaret
+         Gooch.</dc:title>
+      <dc:description>1 online resource (75 leaves)</dc:description>
+      <dc:description>"September 1997."</dc:description>
+      <dc:description>"A revision, continuation and cumulation of the original bibliography and
+         supplements compiled by Jean Butt and David Heisser."</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-01-22</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Jean Mayer. Medford, Mass. : Reference Services Department, Tisch
+         Library, Tufts University, 1997.</dc:source>
+      <dcterms:date>1997</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Mayer, Jean, 1920-1993.</dcadesc:persname>
+      <dcadesc:subject>Nutrition--Bibliography.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Gooch, Margaret.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Peasants_and_Pressure.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Peasants and pressure : the peasant as an active force in the process of change and
+         development in rural Tanzania : a thesis presented to the faculty of the Fletcher School of
+         Law and Diplomacy, Tufts University in partial fulfillment of the requirements for the
+         degree of doctor of philosophy / by Robert David Hormats.</dc:title>
+      <dc:creator>Hormats, Robert D., author.</dc:creator>
+      <dc:description>1 online resource (vii, iv, 377 leaves) : map.</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-05-17</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Hormats, Robert David. Peasants and pressure. 1970.</dc:source>
+      <dcterms:date>1970</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:geogname>Tanzania--Economic conditions.</dcadesc:geogname>
+      <dcadesc:subject>Peasants--Government policy--Tanzania.</dcadesc:subject>
+      <dcadesc:subject>Agriculture and state--Tanzania.</dcadesc:subject>
+      <dcadesc:subject>Agriculture--Economic aspects--Tanzania.</dcadesc:subject>
+      <dcadesc:genre>Tufts dissertations and theses.</dcadesc:genre>
+      <dcadesc:genre>Electronic dissertations.</dcadesc:genre>
+      <dcterms:alternative>Peasant as an active force in the process of change and development in
+         rural Tanzania</dcterms:alternative>
+      <dcterms:contributor>Fletcher School of Law and Diplomacy.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Waters_Edge_V2.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The water's edge : the Jackson amendment as a case study of the role domestic
+         politics plays in the creation of American foreign policy : a thesis presented to the
+         faculty of the Fletcher School of Law and Diplomacy in partial fulfillment of the
+         requirements for the degree of doctor of philosophy / by Paula Stern.</dc:title>
+      <dc:creator>Stern, Paula, 1945-</dc:creator>
+      <dc:description>1 online resource.</dc:description>
+      <dc:description>"April 1976."</dc:description>
+      <dc:description>Tisch In-House Digitization 2016-05-26</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Stern, Paula, 1945-Water's edge. 1976.</dc:source>
+      <dcterms:date>1976</dcterms:date>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Jackson, Henry M. (Henry Martin), 1912-1983.</dcadesc:persname>
+      <dcadesc:geogname>United States--Foreign relations--Soviet Union.</dcadesc:geogname>
+      <dcadesc:geogname>Soviet Union--Foreign relations--United States.</dcadesc:geogname>
+      <dcadesc:subject>Tariff--Law and legislation--United States.</dcadesc:subject>
+      <dcadesc:subject>Foreign trade regulation--United States.</dcadesc:subject>
+      <dcadesc:subject>Jews, Soviet--Legal status, laws, etc.</dcadesc:subject>
+      <dcadesc:genre>Tufts dissertations and theses.</dcadesc:genre>
+      <dcadesc:genre>Electronic dissertations.</dcadesc:genre>
+      <dcterms:alternative>Jackson amendment as a case study of the role domestic politics plays in
+         the creation of American foreign policy</dcterms:alternative>
+      <dcterms:contributor>Fletcher School of Law and Diplomacy.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InHouseDigitizationBatchTransform: 2016-08-19T11:03:36.421-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+</input>
