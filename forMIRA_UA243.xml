@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:alex="http:alex.edu">
+   <digitalObject>
+      <pid>tufts:UA243.001.00002</pid>
+      <file datastream="Archival.video">UA243.001.00002.archival.mp4</file>
+      <file datastream="ARCHIVAL_XML">UA243.001.00002.xml</file>
+      <dcterms:language>English</dcterms:language>
+      <dcterms:language>French</dcterms:language>
+      <dc:title>"Migrations, Islands, and the Creative Economy" </dc:title>
+      <dc:creator>Lionnet, Françoise</dc:creator>
+      <dc:date.created>2016-10-13</dc:date.created>
+      <dc:type>video</dc:type>
+      <dc:format>application/mp4</dc:format>
+      <dc:description>Video of lecture by Françoise Lionnet in which shares perspectives on recent artistic and literary works inspired by migrant crises in both the Indian Ocean and the Mediterranean sea and focus more specifically on the Comoros archipelago and the island of Mayotte, that "ultra peripheral" region of "Europe," she considers the multilingual work of poet and dramatist Soeuf Elbadawi to test the critical effectiveness of literature in the world as agent of cultural change. This lecture was presented as part of the Mellon Sawyer Seminar in Comparative Global Humanities.</dc:description>
+      <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <dc:source>UA243</dc:source>
+      <rel:hasDescription>tufts:UA069.001.DO.UA243</rel:hasDescription>
+      <rel:isMemberOfCollection>tufts:UA069.001.DO.UA243</rel:isMemberOfCollection>
+      <rel:hasModel>info:fedora/afmodel:TuftsVideo</rel:hasModel>
+      <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+      <admin:steward>dca</admin:steward>
+      <admin:displays>dl</admin:displays>
+      <admin:visibility>open</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <pid>tufts:UA243.001.00003</pid>
+      <file datastream="Archival.video">UA243.001.00003.archival.mp4</file>
+      <file datastream="ARCHIVAL_XML">UA243.001.00003.xml</file>
+      <dcterms:language>English</dcterms:language>
+      <dc:title>Colonialism, Slavery, and the Archive: Old and New Practices </dc:title>
+      <dc:creator>Brown, Vincent</dc:creator>
+      <dc:creator>Dillon, Elizabeth</dc:creator>
+      <dc:creator>Bald, Vivek</dc:creator>
+      <dc:date.created>2016-11-04</dc:date.created>
+      <dc:type>video</dc:type>
+      <dc:format>application/mp4</dc:format>
+      <dc:description>Video of a panel on old and new practices of archiving and curating among scholars and writers, activists and artists, engaged in the histories and legacies of colonialism and slavery. This panel was presented as part of the Mellon Sawyer Seminar in Comparative Global Humanities.</dc:description>
+      <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <dc:source>UA243</dc:source>
+      <rel:hasDescription>tufts:UA069.001.DO.UA243</rel:hasDescription>
+      <rel:isMemberOfCollection>tufts:UA069.001.DO.UA243</rel:isMemberOfCollection>
+      <rel:hasModel>info:fedora/afmodel:TuftsVideo</rel:hasModel>
+      <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+      <admin:steward>dca</admin:steward>
+      <admin:displays>dl</admin:displays>
+      <admin:visibility>open</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <pid>tufts:UA243.001.00004</pid>
+      <file datastream="Archival.video">UA243.001.00004.archival.mp4</file>
+      <file datastream="ARCHIVAL_XML">UA243.001.00004.xml</file>
+      <dcterms:language>English</dcterms:language>
+      <dc:title>Plantation Dispossession and the Futures of Black Embodiment </dc:title>
+      <dc:creator>Weheliye, Alexander</dc:creator>
+      <dc:creator>McKittrick, Katherine</dc:creator>
+      <dc:creator>Eudell, Demetrius</dc:creator>
+      <dc:date.created>2016-12-06</dc:date.created>
+      <dc:type>video</dc:type>
+      <dc:format>application/mp4</dc:format>
+      <dc:description>Video of a panel exploring the futures of Black embodiment, both futures-past and futures-present, and the place of the black body in the history of the present, and the futures to which it signals. This panel was presented as part of the Mellon Sawyer Seminar in Comparative Global Humanities.</dc:description>
+      <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+      <dc:source>UA243</dc:source>
+      <rel:hasDescription>tufts:UA069.001.DO.UA243</rel:hasDescription>
+      <rel:isMemberOfCollection>tufts:UA069.001.DO.UA243</rel:isMemberOfCollection>
+      <rel:hasModel>info:fedora/afmodel:TuftsVideo</rel:hasModel>
+      <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+      <admin:steward>dca</admin:steward>
+      <admin:displays>dl</admin:displays>
+      <admin:visibility>open</admin:visibility>
+   </digitalObject>
+</input>

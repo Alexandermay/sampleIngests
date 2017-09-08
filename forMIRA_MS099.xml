@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/" xmlns:rel="info:fedora/fedora-system:def/relations-external#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00013.00001</pid>
+    <dc:title>Wood carving of the Good Samaritan and a nurse</dc:title>
+    <dc:date.created>1920-1930</dc:date.created>
+    <file>MS099.001.001.00013.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Nurses</dcadesc:subject>
+    <dcadesc:subject>Art</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Rittase, William</dc:creator>
+    <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00028.00001</pid>
+    <dc:title>Biewend building exterior</dc:title>
+    <dc:date.created>1975</dc:date.created>
+    <file>MS099.001.001.00028.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Buildings</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Bernstein, Daniel</dc:creator>
+    <dcadesc:subject>Biewend</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00030.00003</pid>
+    <dc:title>Farnsworth building architectural rendering</dc:title>
+    <dc:date.created>1940-1950</dc:date.created>
+    <file>MS099.001.001.00030.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00031.00001</pid>
+    <dc:title>Farnsworth Surgical building clinic lounge</dc:title>
+    <dc:date.created>1949-05-23</dc:date.created>
+    <file>MS099.001.001.00031.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Inez Gordon, R.N., checks appointments while patients wait their turn.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Hospitals</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Gordon, Inez</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00033.00001</pid>
+    <dc:title>Ted Kennedy and Mondale</dc:title>
+    <dc:date.created>1982-10</dc:date.created>
+    <file>MS099.001.001.00033.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Sherman, Stephen</dc:creator>
+    <dcadesc:subject>Kennedy, Edward Moore, 1961-</dcadesc:subject>&gt; <dcadesc:subject>Boston Floating Hospital for Infants and Children</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00041.00002</pid>
+    <dc:title>Holmes building</dc:title>
+    <dc:date.created>1960-1970</dc:date.created>
+    <file>MS099.001.001.00041.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Buildings</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Lenscraft Photos, INC.</dc:creator>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00046.00001</pid>
+    <dc:title>Pratt building entrance</dc:title>
+    <dc:date.created>1930-1940</dc:date.created>
+    <file>MS099.001.001.00046.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Hospitals</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Paul J. Weber Architectural Photography</dc:creator>
+    <dcadesc:subject>Pratt Clinic/New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>Joseph Pratt Diagnostic Hospital</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic</dcadesc:subject>
+    <dcadesc:subject>New England Center Hospital</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00047.00001</pid>
+    <dc:title>William Bingham dedication plaque</dc:title>
+    <dc:date.created>1930-1950</dc:date.created>
+    <file>MS099.001.001.00047.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Paul J. Weber Architectural Photography</dc:creator>
+    <dcadesc:subject>Bingham, William II (1879-1955)</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00048.00001</pid>
+    <dc:title>Building the Orange Line, 1970</dc:title>
+    <dc:date.created>1970</dc:date.created>
+    <file>MS099.001.001.00048.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>At construction - Dental tower construction with Orange Line tunnel exposed.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Construction</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Bernstein, Daniel</dc:creator>
+    <dcadesc:subject>Tufts University School of Dental Medicine</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.001.00054.00003</pid>
+    <dc:title>Ziskind building directory</dc:title>
+    <dc:date.created>1959</dc:date.created>
+    <file>MS099.001.001.00054.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Buildings</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic/New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>Joseph Pratt Diagnostic Hospital</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic</dcadesc:subject>
+    <dcadesc:subject>New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <dc:creator>Magna Film Productions, Inc.</dc:creator>
+    <dc:creator>Public Relations Department Tufts-New England Medical Center</dc:creator>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00011.00003</pid>
+    <dc:title>PC/NECH: Chemistry laboratory, Pratt building</dc:title>
+    <dc:date.created>1938</dc:date.created>
+    <file>MS099.001.002.00011.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Research</dcadesc:subject>
+    <dcadesc:subject>Laboratories</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Weber, Paul</dc:creator>
+    <dcadesc:subject>Pratt Clinic/New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>Joseph Pratt Diagnostic Hospital</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic</dcadesc:subject>
+    <dcadesc:subject>New England Center Hospital</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00013.00002</pid>
+    <dc:title>PC/NECH: Lab technicians in clinical pathology laboratyr conducting microscopic experimentations</dc:title>
+    <dc:date.created>1938-1942</dc:date.created>
+    <file>MS099.001.002.00013.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Research</dcadesc:subject>
+    <dcadesc:subject>Laboratories</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Pratt Clinic/New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>Joseph Pratt Diagnostic Hospital</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic</dcadesc:subject>
+    <dcadesc:subject>New England Center Hospital</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00015.00002</pid>
+    <dc:title>BFH ship: doing the ship's laundry</dc:title>
+    <dc:date.created>1925</dc:date.created>
+    <file>MS099.001.002.00015.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston Harbor (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Hospital laundries</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>T.E. Marr and Son</dc:creator>
+    <dcadesc:subject>Boston Floating Hospital for Infants and Children</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00019.00003</pid>
+    <dc:title>Dispensary doctor and Tufts Medical students in Dispensary clinic</dc:title>
+    <dc:date.created>1929</dc:date.created>
+    <file>MS099.001.002.00019.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Patient care (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Physicians</dcadesc:subject>
+    <dcadesc:subject>Patients</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Jarvis, Dorothy</dc:creator>
+    <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00019.00004</pid>
+    <dc:title>Dr. Pratt and medical staff</dc:title>
+    <dc:date.created>1929</dc:date.created>
+    <file>MS099.001.002.00019.00004.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Meeting of medical staff, Dr. Joseph H. Pratt conducting.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Jarvis, Dorothy</dc:creator>
+    <dcadesc:subject>Pratt, Joseph</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00023.00001</pid>
+    <dc:title>Education</dc:title>
+    <dc:date.created>1955-06-10</dc:date.created>
+    <file>MS099.001.002.00023.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>BD graduating class of 35 medical lab technicians.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Education</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00039.00001</pid>
+    <dc:title>Miss Frances Stern teaching class of Diabetic patients to weigh the foods allowed on their diets</dc:title>
+    <dc:date.created>1924</dc:date.created>
+    <file>MS099.001.002.00039.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Nutrition</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Davis</dc:creator>
+    <dcadesc:subject>Stern, Frances</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <dcadesc:subject>Frances Stern Nutrition Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00039.00002</pid>
+    <dc:title>Patient receiving cooking instructions at Frances Stern Nutrition Center</dc:title>
+    <dc:date.created>1924</dc:date.created>
+    <file>MS099.001.002.00039.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Patient education</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Davis</dc:creator>
+    <dcadesc:subject>Stern, Frances</dcadesc:subject>&gt; <dcadesc:subject>Frances Stern Nutrition Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00048.00003</pid>
+    <dc:title>Jeweler in wheel chair</dc:title>
+    <dc:date.created>1950-1960</dc:date.created>
+    <file>MS099.001.002.00048.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Occupational therapy</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Stone, Eddie</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00059.00001</pid>
+    <dc:title>BD Ear, Nose and Throat Clinic</dc:title>
+    <dc:date.created>1924</dc:date.created>
+    <file>MS099.001.002.00059.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Patient care (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Physicians</dcadesc:subject>
+    <dcadesc:subject>Patients</dcadesc:subject>
+    <dcadesc:subject>Nurses</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Davis</dc:creator>
+    <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00065.00001</pid>
+    <dc:title>Weighing in</dc:title>
+    <dc:date.created>1940-1960</dc:date.created>
+    <file>MS099.001.002.00065.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Patient care (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Nurses</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Rittase, William</dc:creator>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00068.00003</pid>
+    <dc:title>Nurse weighing baby</dc:title>
+    <dc:date.created>1940-1960</dc:date.created>
+    <file>MS099.001.002.00068.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Patient care (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Nurses</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Boston Floating Hospital for Infants and Children</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00074.00001</pid>
+    <dc:title>Nurse and two women</dc:title>
+    <dc:date.created>1940-1950</dc:date.created>
+    <file>MS099.001.002.00074.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Nurses</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Pratt Clinic/New England Center Hospital</dcadesc:subject>
+    <dcadesc:subject>Joseph Pratt Diagnostic Hospital</dcadesc:subject>
+    <dcadesc:subject>Pratt Clinic</dcadesc:subject>
+    <dcadesc:subject>New England Center Hospital</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00086.00002</pid>
+    <dc:title>John W. Correll sells prescriptions to a patient</dc:title>
+    <dc:date.created>1964-06-23</dc:date.created>
+    <file>MS099.001.002.00086.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Pharmacy</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Magna Film Productions, Inc.</dc:creator>
+    <dcadesc:subject>Correll, John W.</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00086.00003</pid>
+    <dc:title>Preparing medication</dc:title>
+    <dc:date.created>1968-06 -- 1968-07</dc:date.created>
+    <file>MS099.001.002.00086.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Strict attention to detail is given by Rodney G. Hood as he assistsw Harry Brass, Director of the Pharmacy, in preparing medication for a patient.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Pharmacy</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Public Relations Department - Tufts-New England Medical Center</dc:creator>
+    <dcadesc:subject>Hood, Rodney G.</dcadesc:subject>&gt; <dcadesc:subject>Brass, Harry</dcadesc:subject>&gt; <dcadesc:subject>Tufts-New England Medical Center</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <dcadesc:subject>Tufts Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00091.00001</pid>
+    <dc:title>Child psychiatry</dc:title>
+    <dc:date.created>1964</dc:date.created>
+    <file>MS099.001.002.00091.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Doctors Robert Geiser and Lieselotte Suskind, two members of the Psychiatric Service for Children, headed by Harld M. Wolman in the Boston Floating Hospital, with one of their patients.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Patients (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Medical care (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Bernstein, Daniel</dc:creator>
+    <dcadesc:subject>Geiser, Robert</dcadesc:subject>&gt; <dcadesc:subject>Suskind, Lieselotte</dcadesc:subject>&gt; <dcadesc:subject>Boston Floating Hospital for Infants and Children</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.002.00092.00001</pid>
+    <dc:title>Dr. Pratt teaching applied pysch</dc:title>
+    <dc:date.created>1948</dc:date.created>
+    <file>MS099.001.002.00092.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Boston Dispensary class in Applied Psychology - a pioneering attempt at group therapy invented by Dr. Pratt and taught by him with Boston University Divinity School professors. </dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Medical education</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Pratt, Joseph</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00001.00002</pid>
+    <dc:title>45 MEV Betatron</dc:title>
+    <dc:date.created>1980-1990</dc:date.created>
+    <file>MS099.001.003.00001.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>45 MEV Betatron and patient being treated (?) by Karen Monovitz, R.T.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Medical radiology</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Dan Bernstein Photography</dc:creator>
+    <dcadesc:subject>Monorvitz, Karen</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00001.00003</pid>
+    <dc:title>Theratron 80</dc:title>
+    <dc:date.created>1970-12-07</dc:date.created>
+    <file>MS099.001.003.00001.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>General view of the newly installed cobalt-60 unit at the Tufts-New England Medical Center department of Therapeutic Radiology. Known as the Theratron 80, the device was manufactured by Atomic Energy of Canada, Limited.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Medical radiology</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Daniels, Robert</dc:creator>
+    <dcadesc:subject>Tufts-New England Medical Center</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <dcadesc:subject>Tufts Medical Center</dcadesc:subject>
+    <dcadesc:subject>Atomic Energy of Canada, Ltd</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00003.00002</pid>
+    <dc:title>Rehabilitation Center event</dc:title>
+    <dc:date.created>1950-1960</dc:date.created>
+    <file>MS099.001.003.00003.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Special events</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Dunks, Abbie</dcadesc:subject>&gt; <dcadesc:subject>Rotch, Arthur T.</dcadesc:subject>&gt; <dcadesc:subject>Hanify, Edward B.</dcadesc:subject>&gt; <dcadesc:subject>Saltonstall, Leverett</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00003.00003</pid>
+    <dc:title>Polio</dc:title>
+    <dc:date.created>1950-1960</dc:date.created>
+    <file>MS099.001.003.00003.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Mayor John Collins in wheelchair.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Lenscraft Photos, INC.</dc:creator>
+    <dcadesc:subject>Hanify, Edward B.</dcadesc:subject>&gt; <dcadesc:subject>Collins, John</dcadesc:subject>&gt; <dcadesc:subject>Lorentz, John</dcadesc:subject>&gt; <dcadesc:subject>Howland, Weston</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00035.00001</pid>
+    <dc:title>Farnsworth surgery</dc:title>
+    <dc:date.created>1940-1960</dc:date.created>
+    <file>MS099.001.003.00035.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Surgery</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Keller, Robert</dc:creator>
+    <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00061.00001</pid>
+    <dc:title>William Bingham II</dc:title>
+    <dc:date.created>1920-1930</dc:date.created>
+    <file>MS099.001.003.00061.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Mr. Bingham playing his violin during a benefit concert for Gould Academy, Bethel, Maine. He was a trustee of the school for many years.</dc:description>
+    <dcadesc:subject>Benefactors</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Bingham, William II</dcadesc:subject>&gt; <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00088.00001</pid>
+    <dc:title>Drawing of Benjamin Dearborn dated 1803</dc:title>
+    <dc:date.created>1880-1960</dc:date.created>
+    <file>MS099.001.003.00088.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Drawing of Benjamin Dearborn by L. Lemet</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Benefactors</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Dearborn, Benjamin</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00099.00001</pid>
+    <dc:title>Alice Ettinger</dc:title>
+    <dc:date.created>1961-10</dc:date.created>
+    <file>MS099.001.003.00099.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>Radiology</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Magna Film Productions, Inc.</dc:creator>
+    <dcadesc:subject>Ettinger, Alice</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00126.00001</pid>
+    <dc:title>Jerome Grossman</dc:title>
+    <dc:date.created>1992</dc:date.created>
+    <file>MS099.001.003.00126.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Miles, Bill</dc:creator>
+    <dcadesc:subject>Grossman, Jerome</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00135.00001</pid>
+    <dc:title>William Hinton</dc:title>
+    <file>MS099.001.003.00135.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Hinton, William</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.003.00137.00001</pid>
+    <dc:title>Oliver Wendell Holmes engraving dated circa 1849</dc:title>
+    <dc:date.created>1880-1960</dc:date.created>
+    <file>MS099.001.003.00137.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Copy of engraving of Oliver Wendell Holmes, Senior (1809-1894), anatomist, author, and poet, at about age. Holmes briefly served with the Boston Dispensary as a district physician.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Wilcox, J.A.J.</dc:creator>
+    <dc:creator>T-NEMC Educational Media Center</dc:creator>
+    <dcadesc:subject>Holmes, Oliver Wendell</dcadesc:subject>&gt; <dcadesc:subject>Wilcox, J.A.J.</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00009.00001</pid>
+    <dc:title>Portrait of Joseph Pratt</dc:title>
+    <dc:date.created>1937</dc:date.created>
+    <file>MS099.001.004.00009.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>From the portrait by Mrs. Woodworth Jones</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>GM Cushing Photography</dc:creator>
+    <dcadesc:subject>Pratt, Joseph</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00011.00001</pid>
+    <dc:title>Proger, Samuel</dc:title>
+    <dc:date.created>1981</dc:date.created>
+    <file>MS099.001.004.00011.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>From page 15 of a 1980 annual report.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Wood, Richard</dc:creator>
+    <dcadesc:subject>Proger, Samuel</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00011.00002</pid>
+    <dc:title>Proger, Samuel</dc:title>
+    <dc:date.created>1929</dc:date.created>
+    <file>MS099.001.004.00011.00002.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Sam Proger on his arrival in Boston.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Proger, Samuel</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00011.00003</pid>
+    <dc:title>Portrait of Samuel Proger</dc:title>
+    <dc:date.created>1940</dc:date.created>
+    <file>MS099.001.004.00011.00003.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Physicians (LCSH)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dcadesc:subject>Proger, Samuel</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00051.00001</pid>
+    <dc:title>Tupper, Earl</dc:title>
+    <dc:date.created>1968</dc:date.created>
+    <file>MS099.001.004.00051.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Portrait of New England Medical Center Hospital benefactor Earl S. Tupper.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>Benefactors</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Bachrach</dc:creator>
+    <dcadesc:subject>Tupper, Earl S.</dcadesc:subject>&gt; <dcadesc:subject>New England Medical Center Hospital</dcadesc:subject>
+    <dcadesc:subject>New England Medical Center</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+  <digitalObject>
+    <pid>tufts:MS099.001.004.00063.00001</pid>
+    <dc:title>Wing, Frank</dc:title>
+    <dc:date.created>1927-03</dc:date.created>
+    <file>MS099.001.004.00063.00001.archival.tif</file>
+    <dcterms:language>eng</dcterms:language> <dc:description>Director's office. Mr. Wing at desk.</dc:description>
+    <dcadesc:subject>Boston (Mass.)</dcadesc:subject>
+    <dcadesc:subject>photographic print</dcadesc:subject>
+    <dc:creator>Davis, George H. Jr.</dc:creator>
+    <dcadesc:subject>Wing, Frank E.</dcadesc:subject>&gt; <dcadesc:subject>Boston Dispensary</dcadesc:subject>
+    <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+    <dc:type>Image</dc:type>
+    <dc:format>image/tiff</dc:format>
+    <dc:publisher>Digital Collections and Archives, Tufts University.</dc:publisher>
+    <dc:rights>http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/</dc:rights>
+    <admin:steward>dca</admin:steward>
+    <ac:name>mpeach01</ac:name>
+    <ac:comment>ASpaceMODSTransform: 2016-12-09T15:56:29.816-05:00</ac:comment>
+    <admin:createdby>externalXSLT</admin:createdby>
+    <admin:displays>dl</admin:displays>
+    <admin:visibility>open</admin:visibility>
+  </digitalObject>
+</input>

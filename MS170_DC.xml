@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:dca="urn:isbn:1-931666-22-9"
+     xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+     xmlns:ac="http://purl.org/dc/dcmitype/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <input>
+      <digitalObject xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+                     xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+                     xmlns:dcterms="http://purl.org/dc/terms/"
+                     xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+         <admin:steward>dca</admin:steward>
+         <admin:createdby>ArchivesSpace</admin:createdby>
+         <admin:displays>dl</admin:displays>
+         <pid>tufts:UA069.001.DO.MS170</pid>
+         <file>UA069.001.DO.MS170.archival.xml</file>
+         <dc:title>Gerald R. Gill Papers</dc:title>
+         <dc:creator>Digital Collections and Archives</dc:creator>
+         <dc:description>Finding aid for the Gerald R. Gill Papers at
+                        the Digital Collections and Archives, Tufts University.</dc:description>
+         <dc:source>UA069</dc:source>
+         <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+         <dc:rights>http://dca.tufts.edu/ua/access/rights.html</dc:rights>
+         <dcterms:date>1921</dcterms:date>
+         <dc:type>text</dc:type>
+         <dc:format>text/xml</dc:format>
+         <dc:indentifier>http://hdl.handle.net/10427/010666</dc:indentifier>
+         <dcadesc:corpname>Tufts University</dcadesc:corpname>
+         <dcadesc:genre>Faculty papers</dcadesc:genre>
+         <dcadesc:geogname>Boston (Mass.)</dcadesc:geogname>
+         <dcadesc:persname>Gill, Gerald R.</dcadesc:persname>
+         <dcadesc:subject>Conscientious objection</dcadesc:subject>
+         <dcadesc:subject>African Americans -- Civil rights</dcadesc:subject>
+         <dcadesc:subject>African Americans -- History</dcadesc:subject>
+         <dcadesc:subject>Protest movements</dcadesc:subject>
+         <dcadesc:subject>Oral history</dcadesc:subject>
+         <dcadesc:subject>Political activists</dcadesc:subject>
+         <dcadesc:subject>African American history</dcadesc:subject>
+         <dcterms:isPartOf>UA069</dcterms:isPartOf>
+         <dcterms:isPartOf>MS170</dcterms:isPartOf>
+         <rel:itemID>oai:tufts:UA069.001.DO.MS170</rel:itemID>
+         <rel:isMemberOfCollection>tufts:UA069.006.DO.MS170</rel:isMemberOfCollection>
+         <rel:hasModel>info:fedora/cm:Text.EAD</rel:hasModel>
+      </digitalObject>
+   </input>
+</xml>
