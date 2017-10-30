@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/">
+  <ListRecords>
+    <record>
+      <metadata>
+        <mira_import xmlns:model="info:fedora/fedora-system:def/model#"
+          xmlns:dc="http://purl.org/dc/terms/" xmlns:bibframe="http://bibframe.org/vocab/"
+          xmlns:dc11="http://purl.org/dc/elements/1.1/"
+          xmlns:terms="http://dl.tufts.edu/terms#"
+          xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+          xmlns:premis="http://www.loc.gov/premis/rdf/v1#"
+          xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+          xmlns:marcrelators="http://id.loc.gov/vocabulary/relators/"
+          xmlns:tufts="http://dl.tufts.edu/terms#"
+          xmlns:scholarsphere="http://scholarsphere.psu.edu/ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+          <terms:filename>pdf-sample.pdf</terms:filename>
+          <bibframe:heldBy>Held by</bibframe:heldBy>
+          <terms:displays_in>dl</terms:displays_in>
+          <terms:displays_in>trove</terms:displays_in>
+          <terms:visibility>authenticated</terms:visibility>
+          <terms:steward>tisch</terms:steward>
+          <dc11:contributor>Data Curation Experts LLC</dc11:contributor>
+          <dc11:contributor>Contributor</dc11:contributor>
+          <dc11:creator>Creator</dc11:creator>
+          <dc11:creator>Bussey, Mark</dc11:creator>
+          <dc11:date>Primary date</dc11:date>
+          <dc11:description>Abstract - this needs to be called something else...</dc11:description>
+          <dc11:language>Language</dc11:language>
+          <dc11:publisher>Publisher</dc11:publisher>
+          <dc11:relation>Keyword</dc11:relation>
+          <dc11:relation>cats</dc11:relation>
+          <dc11:rights>Rights note</dc11:rights>
+          <dc11:subject>Cats--Behavior therapy. </dc11:subject>
+          <dc11:subject>Subject</dc11:subject>
+          <dc:abstract>Abstract</dc:abstract>
+          <dc:accrualPolicy>Accrual policy</dc:accrualPolicy>
+          <dc:alternative>Alternative title</dc:alternative>
+          <dc:audience>Audience</dc:audience>
+          <dc:available>Date available</dc:available>
+          <dc:bibliographicCitation>Bibliographic citation</dc:bibliographicCitation>
+          <dc:created>Date Created</dc:created>
+          <dc:dateAccepted>Date accepted</dc:dateAccepted>
+          <dc:dateCopyrighted>Date copyrighted</dc:dateCopyrighted>
+          <dc:dateSubmitted datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2017-10-13T20:10:40+00:00</dc:dateSubmitted>
+          <dc:extent>Extent</dc:extent>
+          <dc:hasFormat>Has format</dc:hasFormat>
+          <dc:hasPart>Has part</dc:hasPart>
+          <dc:identifier>Identifier</dc:identifier>
+          <dc:isFormatOf>Is format of</dc:isFormatOf>
+          <dc:isReplacedBy>Is replaced by</dc:isReplacedBy>
+          <dc:modified datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2017-10-25T05:52:25+00:00</dc:modified>
+          <dc:provenance>Provenance</dc:provenance>
+          <dc:replaces>Replaces</dc:replaces>
+          <dc:rights>Tufts license</dc:rights>
+          <dc:rights>Tufts license</dc:rights>
+          <dc:rightsHolder>Rights holder</dc:rightsHolder>
+          <dc:source>Source</dc:source>
+          <dc:spatial>Spatial</dc:spatial>
+          <dc:tableOfContents>Table of contents</dc:tableOfContents>
+          <dc:temporal>Temporal</dc:temporal>
+          <dc:title>Testing roundtriped import of Predicates - Title</dc:title>
+          <dc:type>http://purl.org/dc/dcmitype/Dataset</dc:type>
+          <ebucore:dateIssued>Date issued</ebucore:dateIssued>
+          <edm:rights/>
+          <foaf:based_near uri="http://sws.geonames.org/187246/"
+            >http://sws.geonames.org/187246/</foaf:based_near>
+          <mads:PersonalName>May, Alex</mads:PersonalName>
+          <mads:CorporateName>Corporate name</mads:CorporateName>
+          <mads:GenreForm>Genre</mads:GenreForm>
+          <mads:PersonalName>Personal name</mads:PersonalName>
+          <marcrelators:fnd>Funder</marcrelators:fnd>
+          <model:hasModel>GenericObject</model:hasModel>
+          <premis:TermOfRestriction>Embargo note</premis:TermOfRestriction>
+          <premis:hasEndDate>End date</premis:hasEndDate>
+          <premis:hasFormatName>Format label</premis:hasFormatName>
+          <rdfs:seeAlso>Related URL</rdfs:seeAlso>
+          <tufts:createdby>Created by</tufts:createdby>
+          <tufts:creator_department>Creatore department</tufts:creator_department>
+          <tufts:displays_in>nowhere</tufts:displays_in>
+          <tufts:has_draft>false</tufts:has_draft>
+          <tufts:id>j9602060k</tufts:id>
+          <tufts:internal_note>Internal note</tufts:internal_note>
+          <tufts:legacy_pid>Legacy pid</tufts:legacy_pid>
+          <tufts:qr_note>Qr note</tufts:qr_note>
+          <tufts:qr_status>QR status</tufts:qr_status>
+          <tufts:rejection_reason>Rejection reason</tufts:rejection_reason>
+          <tufts:retention_period>Retention period</tufts:retention_period>
+          <tufts:startDate>Admin start date</tufts:startDate>
+          <tufts:steward>Steward</tufts:steward>
+          <tufts:tuftsIsPartOf>Tufts is part of</tufts:tuftsIsPartOf>
+        </mira_import>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
